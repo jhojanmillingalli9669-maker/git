@@ -8,6 +8,9 @@ def cajero_automatico():
         print("3. Retirar dinero")
         print("4. Salir")
 
+
+
+
         opcion = input("Selecciona una opción (1-4): ")
 
         if opcion == "1":
